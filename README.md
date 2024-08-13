@@ -84,7 +84,7 @@
 
 
 <br><p align="center"><b>Visitor Counter</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsadoraPrevitalle}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{akira234mirai}/count.svg" /></p> 
 <br></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261436&height=120&section=header"/>
