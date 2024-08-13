@@ -83,6 +83,78 @@
 ![Predictive Models](https://img.shields.io/badge/-Predictive%20Models-0D1117?style=for-the-badge&logo=predictive-modeling&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+	<h3 align="center">
+		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
+		 My Soft Skills 
+		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+	<h3>
+	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges<h4>
+</div>
+
+##	
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><p align="center"><b>Visitor Counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{akira234mirai}/count.svg" /></p> 
 <br></div>
