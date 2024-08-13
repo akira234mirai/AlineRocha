@@ -89,20 +89,13 @@
 
 
 
-
-
-
-
-
-
-
 <div>
 	<h3 align="center">
-		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
+		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px" style="filter: hue-rotate(180deg);">
 		 My Soft Skills 
-		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px" style="filter: hue-rotate(180deg);">
 	<h3>
-	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges<h4>
+	<h4 align="center" style="color: #20B2AA;">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges<h4>
 </div>
 
 ##	
@@ -110,7 +103,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg" style="filter: hue-rotate(150deg);">
 </picture>
 
 
@@ -159,5 +152,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{akira234mirai}/count.svg" /></p> 
 <br></div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261436&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=header"/>
 <div align="center">
